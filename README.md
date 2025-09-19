@@ -22,8 +22,9 @@ Instala las dependencias con:
 ```sh
 pip install pandas seaborn matplotlibData Analysis  Projects
 
-### Ejecucion
+Ejecucion
 python [titanic_analysis.py](http://_vscodecontentref_/0)
+```
 
 ## Descripción del Análisis
 * Carga de datos: Descarga el dataset desde GitHub.
